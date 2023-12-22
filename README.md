@@ -1,6 +1,8 @@
 # PCVK-UAS-Kelompok7
 Pengumpulan Tugas UAS Mata Kuliah PCVK
 
+Link Presentasi Youtube : https://youtu.be/Kgi8xuLk5Ag?si=9LzjfiQxF0pFz2A5
+
 Nama Anggota:
 - Maidy Putri Joshi(18 / 2141720060)
 - Salma Annissa Azizi(28 / 2141720137)
